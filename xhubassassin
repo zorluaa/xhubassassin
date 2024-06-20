@@ -5,6 +5,7 @@ local whitelist = {
     ["5082804025"] = true,
     ["4880618871"] = true,
     ["5270906186"] = true,
+    ["5065330925"] = true,
 }
 
 -- Step 2: Function to Check Against the Whitelist
